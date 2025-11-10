@@ -16,7 +16,7 @@ I had little prior knowledge of Excel after my junior year of college, and wante
 The data was entered by hand after I collected around 60 scorecards after the two-day tournament. The data I entered included scores on each hole and handicap for the player.
 
 ### Results
-I belive the dashboard turned out great! It is relatively simple but I think it looks clean and is easy to read. I plan on adding data to it next year after I play in the tournament again. 
+I believe the dashboard turned out great! It is relatively simple but I think it looks clean and is easy to read. I plan on adding data to it next year after I play in the tournament again. 
 <img width="1336" height="549" alt="image" src="https://github.com/user-attachments/assets/dad8ae90-9e1a-4382-87f4-a356219d52ac" />
 
 ### Instructions
